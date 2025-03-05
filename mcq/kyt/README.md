@@ -43,3 +43,10 @@ d. Hybrid Application
 
 **Correct Answer:** a. Native Application
 
+### 6. When Tata Consultancy Services established?
+a. 1978
+b. 1968
+c. 1988
+d. 1971
+
+**Correct Answer:** b. 1968
