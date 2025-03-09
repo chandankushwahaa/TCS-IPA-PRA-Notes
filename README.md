@@ -13,7 +13,6 @@ IPA is applicable for candidates who have accepted TCS **offer Letter** (Ninja/D
 ## 📚 Exam Pattern
 The TCS IPA exam consists of **MCQ-based questions** and **coding problems**. The total marks for the exam are **100**, and there is **no negative marking**.
 
-![cac](doc/syllabus.jpg)
 
 ### 📝 MCQ Section (50 Minutes)
 
