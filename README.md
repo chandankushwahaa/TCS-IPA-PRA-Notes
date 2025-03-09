@@ -57,8 +57,8 @@ This repository includes:
 ## 🚀 How to Use This Repository
 1. Clone the repository:
    ```sh
-   git clone https://github.com/chandankushwahaa/TCS-IPA-Questions
-   cd TCS-IPA-Questions
+   git clone https://github.com/chandankushwahaa/TCS-IPA-PRA-Notes
+   cd TCS-IPA-PRA-Notes
    ```
 2. Explore the **notes**, **MCQs**, and **coding problems** in their respective folders.
 3. Practice coding problems in Java and try to optimize solutions.
